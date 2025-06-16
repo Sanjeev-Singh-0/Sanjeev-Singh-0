@@ -1,4 +1,4 @@
-## Hi there 👋
+## Chemical Engineering Student at Imperial College London
 
 <!--
 **Sanjeev-Singh-0/Sanjeev-Singh-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
