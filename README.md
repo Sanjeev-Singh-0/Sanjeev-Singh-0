@@ -1,6 +1,9 @@
 ## Chemical Engineering Student at Imperial College London
 
 - Currently undertaking a reinforcement learning summer project
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 <!--
 **Sanjeev-Singh-0/Sanjeev-Singh-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
