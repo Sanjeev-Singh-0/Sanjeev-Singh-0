@@ -1,5 +1,6 @@
 ## Chemical Engineering Student at Imperial College London
 
+- Currently undertaking a reinforcement learning summer project
 <!--
 **Sanjeev-Singh-0/Sanjeev-Singh-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
