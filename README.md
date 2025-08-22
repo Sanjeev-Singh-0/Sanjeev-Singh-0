@@ -2,11 +2,12 @@
 
 <kbd> **Chemical Engineering Student | Imperial College London** <kbd>  
 
-Currently undertaking a reinforcement learning summer project
+Currently undertaking a Reinforcement Learning summer project
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 <!--
 **Sanjeev-Singh-0/Sanjeev-Singh-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
