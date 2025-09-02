@@ -5,9 +5,9 @@
 Currently undertaking a Reinforcement Learning summer project:
 
 Reinforcement Learning Summer Project	| 2025
-•	Utilised Python to engineer solutions to reinforcement learning problems
-•	Developed new technical skills using python libraires such as PyTorch and NumPy
-•	Wrote programs to implement various reinforcement learning algorithms including Q-Learning, and Deep Q Learning algorithms.
+* Utilised Python to engineer solutions to reinforcement learning problems
+* Developed new technical skills using python libraires such as PyTorch and NumPy
+* Wrote programs to implement various reinforcement learning algorithms including Q-Learning, and Deep Q Learning algorithms.
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
